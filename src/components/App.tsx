@@ -1,7 +1,7 @@
 
 import { useState, useEffect } from 'react';
 import css from './App.module.css';
-import { getImages } from '../images-api';
+import { getImages } from '../Images-api';
 
 import SearchBar from './SearchBar/SearchBar';
 import ImageGallery from './ImageGallery/ImageGallery';
